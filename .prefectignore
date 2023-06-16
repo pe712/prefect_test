@@ -1,0 +1,5 @@
+*
+!.prefectignore
+!workflows/
+!workflows/*
+!another_prefect_flow.py
